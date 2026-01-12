@@ -131,3 +131,6 @@ The modeling phase focuses on probabilistic classification using Naive Bayes.
 ## Final Notes
 
 This project emphasizes **methodology and reasoning**, showing how structured analysis and incremental experimentation lead to meaningful insights, even when using relatively simple machine learning models.
+
+
+@antinomico @AndreLimaJordao @JoaoHenriqueMG @PeterIgnatious
